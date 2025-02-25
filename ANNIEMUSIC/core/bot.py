@@ -62,8 +62,8 @@ class ANNIEBot(Client):
             [
                 [
                     InlineKeyboardButton(
-                        text="+ Add me to your clan darlo +",
-                        url=f"https://t.me/{self.username}?startgroup=true",
+                        text="+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʙᴀʙʏ +",
+                        url=f"https://t.me/{self.usernamae}?startgroup=true",
                     )
                 ]
             ]
